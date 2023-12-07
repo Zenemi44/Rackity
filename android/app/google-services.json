@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1081151725864",
+    "project_id": "rackity-e5dfe",
+    "storage_bucket": "rackity-e5dfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081151725864:android:9aeb7566191d276915f01d",
+        "android_client_info": {
+          "package_name": "com.example.rackity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081151725864-jgqvlublnmllqpbureea9uo7eec4svl1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rackity",
+            "certificate_hash": "3aabf2fe9354e180bd58c17d5de488a462cf7717"
+          }
+        },
+        {
+          "client_id": "1081151725864-8982ce5c113d88sul26m21brsciifia7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkTrkUhZc6BRyeNKyqY7u-xuDyzIJVTgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081151725864-8982ce5c113d88sul26m21brsciifia7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
